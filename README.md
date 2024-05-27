@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning SQL and Python
 - 💞️ I’m looking to collaborate on Data Analytics Projects
-- 📫 How to reach me _ LinkedIn 
+- 📫 How to reach me _ LinkedIn : www.linkedin.com/in/dr-rachana-tandon 
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I am a dentist and public health graduate with no prior experience in coding. 
 
